@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://sandblast.tukang.co.id/</loc>
 		<lastmod>2023-08-08T08:29:03+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/20171029_135746-768x576.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/20171029_135746-768x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/IMG_0180.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/IMG_0180.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/20180216_145201-768x576.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/20180216_145201-768x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/489fa48bde207d54ae4fd24b838bc80b.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/489fa48bde207d54ae4fd24b838bc80b.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/3071644_c8c8bd91-b76c-46b8-b486-a7b81b6ee42b_2048_0.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/3071644_c8c8bd91-b76c-46b8-b486-a7b81b6ee42b_2048_0.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/sticker_stiker_kaca_motif_sandblast_polos_blur_kaca_es.jpg</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2023/08/sticker_stiker_kaca_motif_sandblast_polos_blur_kaca_es.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/quotes-avatar-woman.png</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2020/07/quotes-avatar-woman.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/quotes-avatar-woman-2.png</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2020/07/quotes-avatar-woman-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/quotes-avatar-man.png</image:loc>
+			<image:loc>https://sandblast.tukang.co.id/wp-content/uploads/2020/07/quotes-avatar-man.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://sandblast.tukang.co.id/contact/</loc>
 		<lastmod>2023-08-08T07:21:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/product/</loc>
+		<loc>https://sandblast.tukang.co.id/product/</loc>
 		<lastmod>2023-08-08T07:20:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about-us/</loc>
+		<loc>https://sandblast.tukang.co.id/about-us/</loc>
 		<lastmod>2023-08-08T07:20:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/testimonial/</loc>
+		<loc>https://sandblast.tukang.co.id/testimonial/</loc>
 		<lastmod>2023-08-04T06:26:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/menu-dark/</loc>
+		<loc>https://sandblast.tukang.co.id/menu-dark/</loc>
 		<lastmod>2023-08-04T06:26:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sample-page/</loc>
+		<loc>https://sandblast.tukang.co.id/sample-page/</loc>
 		<lastmod>2023-08-04T05:10:34+00:00</lastmod>
 	</url>
 </urlset>
